@@ -18,9 +18,9 @@ Backand is a powerful backend-as-a-service for AngularJS and ReactJS that provid
 
 ## Setting up development in C9 
 * Create account at https://c9.io/ or use your GitHub account.
-* Create a new nodejs workspace
+* Create a new nodejs workspace using this git address https://github.com/otso-cc/code-camp-health.git
 
-## Clone this examples repository using the console
+## Clone this examples repository using the console if you did not use the address in the previous step
 ```
 git clone https://github.com/otso-cc/code-camp-health.git
 ```
