@@ -3,9 +3,10 @@ Ionic: http://ionicframework.com/
 Example based on: https://market.ionic.io/starters/backand-simple
 
 ## Setup
-* With the console, move to the ionic-app directory and paste these two commands. The first one will install all the necessary dependencies for the application and the second runs the server itself.
+* With the console, move to the ionic-app directory and paste these two commands. The first one will install all the necessary dependencies for the application. The second installs cordova and ionic libraries, and the third runs the server itself.
 ```
 npm install 
+npm install -g cordova ionic
 ionic serve -p $PORT --nolivereload
 ```
 
